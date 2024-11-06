@@ -1,24 +1,45 @@
-.content{
+.content {
     display: flex;
-    justify-content: space-around;
-    align-items: center;
-    justify-items: center;
-    gap: 10px; 
+    justify-content: center;     
+    align-items: center;         
+    width: 100%;                
+    background-color: #F4F6F5;
 }
-img{
+
+img {
     width: 540px;
     height: 621px;
-    border: 1px solid red;
+    margin-right: 50px;          
 }
-.side{
-    border: 1px solid red;
+.side {
     width: 540px;
     height: 331px;
     display: flex;
     flex-direction: column;
     text-align: left;
 }
-.side h1{   
+
+.side h1 {
     font-weight: 500;
     font-size: 50px;
+}
+.side p {
+    margin-top: 20px;
+    color: #86928B;
+
+}
+.Buttn{
+    margin-top: 50px;
+    width: 200px;
+    height: 50px;
+    transition: .2s;
+    border: .3px solid #598D66;
+    color: #598D66;
+    font-weight: 600;
+    font-size: 15px;
+
+}
+.Buttn:hover{
+    background-color: #598D66;
+    color: #F4F6F5;
 }
