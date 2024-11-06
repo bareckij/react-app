@@ -1,0 +1,24 @@
+.content{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    justify-items: center;
+    gap: 10px; 
+}
+img{
+    width: 540px;
+    height: 621px;
+    border: 1px solid red;
+}
+.side{
+    border: 1px solid red;
+    width: 540px;
+    height: 331px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+.side h1{   
+    font-weight: 500;
+    font-size: 50px;
+}
