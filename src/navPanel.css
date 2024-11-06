@@ -15,6 +15,7 @@
     justify-content: center;
     color: #598D66;
     font-weight: 700;
+    cursor: pointer;
   }
   .Logo img{
     margin-right: 4px ;
@@ -34,11 +35,15 @@
   .Panel p{
     margin-right: 50px;
     transition: .1s;
+    cursor: pointer;
+
   }
   .Panel img{
     height: 2.5vh;
     width: 2.5vh;
     transition: .1s;
+    cursor: pointer;
+
   }
   .Panel p:hover {
     color: #598D66;
