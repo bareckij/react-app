@@ -1,17 +1,18 @@
-.content {
+.Intro_content {
     display: flex;
     justify-content: center;     
     align-items: center;         
     width: 100%;                
     background-color: #F4F6F5;
+
 }
 
-img {
+.Intro_content img {
     width: 540px;
     height: 621px;
     margin-right: 50px;          
 }
-.side {
+.Intro_content-side {
     width: 540px;
     height: 331px;
     display: flex;
@@ -19,16 +20,16 @@ img {
     text-align: left;
 }
 
-.side h1 {
+.Intro_content-side h1 {
     font-weight: 500;
     font-size: 50px;
 }
-.side p {
+.Intro_content-side p {
     margin-top: 20px;
     color: #86928B;
 
 }
-.Buttn{
+.Intro_content-side-Buttn{
     margin-top: 50px;
     width: 200px;
     height: 50px;
@@ -39,7 +40,7 @@ img {
     font-size: 15px;
 
 }
-.Buttn:hover{
+.Intro_content-side-Buttn:hover{
     background-color: #598D66;
     color: #F4F6F5;
 }

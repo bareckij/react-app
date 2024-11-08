@@ -1,0 +1,51 @@
+.new-content{
+    width: 100vw;
+    height: 574px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: 
+    linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(255, 216, 126, 0.119)), 
+    url(../img/SadMan.png),
+    url(../img/Shoom.png)
+}
+
+.new-content_text{
+    padding-top: 10px;
+    width: 40%;
+    height: 80%;
+    margin-left: 10vw;
+    color: white;
+    text-align: left;
+}
+.new-content_text p{
+    font-size: 18px;
+}
+.new-content_text_head{
+    margin-top: 50px;
+    display: flex;
+}
+.new-content_text_head p{
+    margin-left: 20px;
+    font-size: 40px;
+    font-weight: 500;
+}
+.new-content_text_head img {
+    width: 95px;
+    height: 95px;
+}
+
+.new-content_text_button{
+    margin-top: 50px;
+    width: 257px;
+    height: 65px;
+    background-color: #EEDB6D;    
+    color: #2C2D35;
+    font-weight: 500;
+    font-size: 17px;
+    transition: .3s;
+}
+
+.new-content_text_button:hover{
+    background-color: #D9B949;
+    color: #2C2D35;
+}
