@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.829bf6c0.css",
+    "main.js": "/react-app/static/js/main.f79d4efb.js",
+    "static/js/453.2a82e7ac.chunk.js": "/react-app/static/js/453.2a82e7ac.chunk.js",
+    "static/media/SadMan.png": "/react-app/static/media/SadMan.924101a3b474d1c9eb00.png",
+    "static/media/Shoom.png": "/react-app/static/media/Shoom.c7796f745ca1e9426d53.png",
+    "static/media/Pigeon.png": "/react-app/static/media/Pigeon.d4b23dc183a2945bd914.png",
+    "static/media/Procedura.jpg": "/react-app/static/media/Procedura.f0b803ca08d24cb61c49.jpg",
+    "static/media/Trapeza.jpg": "/react-app/static/media/Trapeza.2b9fb403c1677fd5ee7f.jpg",
+    "static/media/Dama.jpg": "/react-app/static/media/Dama.2ca1f2ce24ff89a02c2f.jpg",
+    "static/media/Paysage.jpg": "/react-app/static/media/Paysage.6164a456645e217c3fb8.jpg",
+    "static/media/Gory.jpg": "/react-app/static/media/Gory.96a3e59b084d600157f1.jpg",
+    "static/media/03.jpg": "/react-app/static/media/03.2d45f5fbc776802b79ab.jpg",
+    "static/media/sred.jpg": "/react-app/static/media/sred.3b2ee7e956a7cd1c74e3.jpg",
+    "static/media/dzuatly.jpg": "/react-app/static/media/dzuatly.0f07670582357147ac1c.jpg",
+    "static/media/vody.jpg": "/react-app/static/media/vody.0f07670582357147ac1c.jpg",
+    "static/media/Rosa.jpg": "/react-app/static/media/Rosa.ec37097a92abc818dd61.jpg",
+    "static/media/Ryba.jpg": "/react-app/static/media/Ryba.4d15bfd17ed57f9c9d64.jpg",
+    "static/media/Bereg.jpg": "/react-app/static/media/Bereg.03752b662fbc589bf667.jpg",
+    "static/media/Popug.jpg": "/react-app/static/media/Popug.ac4b14f009bfb9808f05.jpg",
+    "static/media/yarkaya.jpg": "/react-app/static/media/yarkaya.10f522a9f5971d08ad06.jpg",
+    "static/media/ptency.jpg": "/react-app/static/media/ptency.ab4fd17a9a44ac054a2a.jpg",
+    "static/media/gorod.jpg": "/react-app/static/media/gorod.3399cbc24748f8b26f37.jpg",
+    "static/media/Hand.png": "/react-app/static/media/Hand.065a117d0dd8166022c9.png",
+    "static/media/Kot.jpg": "/react-app/static/media/Kot.bc759b60e7a3912b2330.jpg",
+    "static/media/Frame.png": "/react-app/static/media/Frame.6e259f6cb81b8f0a24a3.png",
+    "static/media/Zver.jpg": "/react-app/static/media/Zver.230e6a4274a6c9c22d77.jpg",
+    "static/media/First.png": "/react-app/static/media/First.e17cb2a2b15da16a7000.png",
+    "index.html": "/react-app/index.html",
+    "main.829bf6c0.css.map": "/react-app/static/css/main.829bf6c0.css.map",
+    "main.f79d4efb.js.map": "/react-app/static/js/main.f79d4efb.js.map",
+    "453.2a82e7ac.chunk.js.map": "/react-app/static/js/453.2a82e7ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.829bf6c0.css",
+    "static/js/main.f79d4efb.js"
+  ]
+}
